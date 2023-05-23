@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{220A341C-A47B-476E-A842-AB65F1784F9E}">
+	<children>
+		<child name="Lojinha Desktop" key="{06879660-A0BB-4B07-BD25-543688FE8378}" path="Lojinha Desktop\Lojinha Desktop.mds" />
+	</children>
+	<testItems key="{5C07B654-A81A-4B26-941C-DD7E4C58FBD8}">
+		<children>
+			<testItem key="{06879660-A0BB-4B07-BD25-543688FE8378}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{8C858D33-CDA5-4118-AD9F-4B1136123CE7}" />
+	<analysis key="{31D9A747-9DD2-4A99-BB72-82E96DD59CAB}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>
