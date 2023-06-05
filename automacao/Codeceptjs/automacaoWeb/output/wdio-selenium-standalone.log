@@ -1,0 +1,18 @@
+08:06:40.103 INFO [GridLauncherV3.parse] - Selenium server version: 3.141.59, revision: e82be7d358
+08:06:40.176 INFO [GridLauncherV3.lambda$buildLaunchers$3] - Launching a standalone Selenium Server on port 4444
+2023-05-26 08:06:40.218:INFO::main: Logging initialized @284ms to org.seleniumhq.jetty9.util.log.StdErrLog
+08:06:40.489 INFO [WebDriverServlet.<init>] - Initialising WebDriverServlet
+08:06:40.665 INFO [SeleniumServer.boot] - Selenium Server is up and running on port 4444
+08:06:41.044 INFO [ActiveSessionFactory.apply] - Capabilities are: {
+  "browserName": "chrome",
+  "goog:chromeOptions": {
+  }
+}
+08:06:41.045 INFO [ActiveSessionFactory.lambda$apply$11] - Matched factory org.openqa.selenium.grid.session.remote.ServicedSession$Factory (provider: org.openqa.selenium.chrome.ChromeDriverService)
+Starting ChromeDriver 113.0.5672.63 (0e1a4471d5ae5bf128b1bd8f4d627c8cbd55f70c-refs/branch-heads/5672@{#912}) on port 30679
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+08:06:42.023 INFO [ProtocolHandshake.createSession] - Detected dialect: W3C
+08:06:42.065 INFO [RemoteSession$Factory.lambda$performHandshake$0] - Started new session f5ef6828a29c0159f813f63ec14f5245 (org.openqa.selenium.chrome.ChromeDriverService)
+08:07:06.469 INFO [ActiveSessions$1.onStop] - Removing session f5ef6828a29c0159f813f63ec14f5245 (org.openqa.selenium.chrome.ChromeDriverService)

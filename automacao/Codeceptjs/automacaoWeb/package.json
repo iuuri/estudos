@@ -1,0 +1,19 @@
+{
+  "name": "automacaoweb",
+  "version": "1.0.0",
+  "description": "Projeto de automação de testes para Web com Webdriver ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Iuri Souza",
+  "license": "ISC",
+  "devDependencies": {
+    "@wdio/selenium-standalone-service": "^6.4.2",
+    "codeceptjs": "^3.4.1",
+    "webdriverio": "^6.4.2"
+  },
+  "dependencies": {
+    "playwright": "^1.34.3"
+  }
+}
